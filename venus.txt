@@ -1,3 +1,5 @@
+New Header.
+
 This is a file to play with git.
 
 Hi, git. I'm making changes to the file.
